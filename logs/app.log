@@ -5377,3 +5377,5 @@
 [2017-06-20 15:11:10.684] [WARN] console - this is a logger middleware.
 [2017-06-20 15:11:10.761] [DEBUG] app - 2017-6-20 15:11:10 ::ffff:127.0.0.1 -- GET /api/rank/5948ca8e1c6d415251854394 HTTP/1.1, null Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 [2017-06-20 15:11:10.762] [WARN] console - this is a logger middleware.
+[2017-06-20 18:17:56.248] [INFO] console - Mongoose connected to mongodb://127.0.0.1:27017/wenode
+[2017-06-20 18:17:56.260] [INFO] app - application is startup, listening on port 3000
